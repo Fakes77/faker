@@ -8,7 +8,6 @@
             "email": "ondrej.chlumecky@icloud.com"
         }
     ],
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {"faker\\create\\": "src/"}
     },
