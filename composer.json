@@ -1,0 +1,18 @@
+{
+    "name": "fakes77/faker",
+    "description": "Create fake data",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ondrej Chlumecky",
+            "email": "ondrej.chlumecky@icloud.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"faker\\create\\": "src/"}
+    },
+    "require": {
+        "php": ">=7.1"
+    }
+}
